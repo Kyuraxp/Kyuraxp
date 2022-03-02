@@ -1,7 +1,8 @@
 # ʜɪ ꜰʀɪᴇɴᴅs 😁 , ɪ'ᴍ ҡʏᴜʀᴧ
 
-## hubungi saya di [![Telegram @Kyuraxx](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/kyuraxx) 
-<br>
+# Hubungi Saya Di Telegram:
+
+[<img src="https://media0.giphy.com/media/ya4eevXU490Iw/giphy.gif">](https://t.me/kyuraxx)
 
 ### ᴛᴏᴏʟs:
 <p>
@@ -37,3 +38,6 @@
 
 </details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=ramadhani892&repo=kyura-userbot&theme=dark)
