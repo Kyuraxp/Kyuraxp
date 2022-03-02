@@ -1,5 +1,8 @@
 # ʜɪ ꜰʀɪᴇɴᴅs 😁 , ɪ'ᴍ ҡʏᴜʀᴧ
 
+## hubungi saya di [![Telegram @Kyuraxx](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/kyuraxx) 
+<br>
+
 ### ᴛᴏᴏʟs:
 <p>
     <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
