@@ -17,15 +17,15 @@
 
 ### <img src="https://media.giphy.com/media/IqgySmxEgP0rs40ZMB/giphy.gif" width="50"> sᴛᴀᴛs:
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=kyuraxp&hide=issues&show_icons=true&hide_border=true&title_color=000" />
-</p>
+    <p align="center"><a href="https://github.com/kyuraxp"><img src="https://github-readme-stats.vercel.app/api?username=kyuraxp&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/kyuraxp"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyuraxp&theme=radical&layout=compact"></a></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ᴍʏ sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ
 <p>
     <a href="https://kyuraxx.medium.com/" target="blank"><img src="https://img.icons8.com/nolan/55/medium-new.png" /></a>
-    <a href="https://t.me/kyuraxx" target="blank"><img src="https://img.icons8.com/nolan/55/telegram-app.png" /></a>
+    <a href="https://t.me/kyuraxx" target="radical"><img src="https://img.icons8.com/nolan/55/telegram-app.png" /></a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <details>
