@@ -1,8 +1,8 @@
-# ʜɪ ꜰʀɪᴇɴᴅs 😁 , ɪ'ᴍ Warpath
+# ʜɪ ꜰʀɪᴇɴᴅs 😁 , ɪ'ᴍ B
 
 # Hubungi Saya Di Telegram:
 
-[<img src="https://media0.giphy.com/media/ya4eevXU490Iw/giphy.gif">](https://t.me/kyuraxx)
+[<img src="https://media0.giphy.com/media/ya4eevXU490Iw/giphy.gif">](https://t.me/bakugoufck)
 
 ### ᴛᴏᴏʟs:
 <p>
@@ -24,8 +24,8 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ᴍʏ sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ
 <p>
-    <a href="https://t.me/kyurasupport" target="blank"><img src="https://img.icons8.com/nolan/55/telegram-app.png" /></a>
-    <a href="https://t.me/kyuraxx" target="radical"><img src="https://img.icons8.com/nolan/55/telegram-app.png" /></a>
+    <a href="https://t.me/kyurasupportgroup" target="blank"><img src="https://img.icons8.com/nolan/55/telegram-app.png" /></a>
+    <a href="https://t.me/bakugoufck" target="radical"><img src="https://img.icons8.com/nolan/55/telegram-app.png" /></a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <details>
